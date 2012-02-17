@@ -14,7 +14,7 @@ gem 'rspec', '2.0.1'
 gem 'webrat', '0.7.1'
 end
 gem 'win32console'
-gem 'autotest-growl'
+
 # Use unicorn as the web server
 # gem 'unicorn'
 
